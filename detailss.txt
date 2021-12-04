@@ -1,0 +1,3 @@
+<?php include 'links/registerlinks.php'; ?>
+<?php include 'external/user.php'; ?>
+<?php include 'external/admin.php'; ?>

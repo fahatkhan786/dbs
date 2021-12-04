@@ -1,0 +1,72 @@
+body{
+	height: 100vh;
+	background: #f6f5f7;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+a{
+	text-decoration: none;
+} 
+marquee{
+    margin: 25px 0;
+	color: #fff;
+	background: #3867d6;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+.Pgtitle{
+	color: #333;
+	margin: 25px 0;
+	font-size: 45px;
+	font-weight: 600;
+}
+.logout-btn{
+    margin-top: 50px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logout-btn .btn{
+    padding: 7px 25px;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+}
+.logout-btn .userbtn{
+    background: rgb(0, 44, 165);
+    color: #fff;
+}
+.logoff{
+    color: #000;
+    text-decoration: none;
+}
+.logoff:hover{
+    color: #000;
+    text-decoration: none;
+}
+.accounts{
+    width: 90%;
+}
+table{
+    padding: 25px;
+}
+td{
+	font-size: 15px;
+	font-weight: 600;
+}
+hr{
+    width: 50%;
+    border: .5px solid #ddd;
+    border-radius: 5px;
+	margin-top: 25px;
+}
+footer{
+	color: #333;
+	font-size: 15px;
+	font-weight: 600;
+}
